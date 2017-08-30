@@ -5,6 +5,8 @@
  */
 package calculadora;
 
+import com.sun.xml.internal.bind.v2.runtime.output.SAXOutput;
+
 /**
  *
  * @author ra168945
@@ -16,6 +18,8 @@ public class Calculadora {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Calculadora bem produtiva");
+        System.out.println("Outra linha");
     }
     
 }
